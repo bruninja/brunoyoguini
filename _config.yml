@@ -1,0 +1,26 @@
+# Site settings
+title: "Professor Bruno"
+email: bruno.carvalho@hotmail.de
+description: "Professor de Ashtanga Vinyasa Yoga -  São Luís/MA"
+#baseurl: ""
+url: "http://brunoyogui.esy.es"
+title_description: "Espaço onde compartilho com meus alunos assuntos e temas abordados durante minhas aulas. O Ashtanga Vinyasa Yoga é um método dinâmico de praticar asanas (posturas psicofísicas), utilizando as posturas tradicionais do Hatha Yoga numa sequência fluida e sem intervalos. Esse método envolve a sincronia entre a respiração e as sequências de posições (asanas), combinando movimentos interligados que fluem através do movimento respiratório (vinyasa). A respiração é o coração desse método, conectando asana a asana em uma ordem precisa."
+title_image: "/favicons/author.jpg"
+google_analytics: "UA-20365477-4"
+disqus_account: bruno_yoganinja
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: bruninjadev
+facebook_link: https://www.facebook.com/brun0c4v4lh0
+
+# Footer
+footer_center: "Feito com <i class=\"fa fa-heart\"></i> por <a href=\"http://bruno.url.ph\">Bruno Carvalho</a>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
