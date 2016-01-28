@@ -16,7 +16,7 @@ twitter_username: bruninjadev
 facebook_link: https://www.facebook.com/brun0c4v4lh0
 
 # Footer
-footer_center: "Feito com <i class=\"fa fa-heart\"></i> por <a href=\"http://bruno.url.ph\">Bruno Carvalho</a>"
+footer_center: "Feito por <a href=\"http://bruno.url.ph\">Bruno Carvalho</a>"
 
 # Build settings
 markdown: redcarpet
