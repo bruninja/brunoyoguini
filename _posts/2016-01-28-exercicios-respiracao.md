@@ -13,19 +13,19 @@ tags:
  - Hermógenes
  - Exercícios
 ---
+<center>
+# PRANAYAMA
+##### pelo Prof. José Hermógenes de Andrade Filho
 
-# <center>PRANAYAMA</center>
-##### <center>pelo Prof. José Hermógenes de Andrade Filho</center>
-
-<center>![Pranayama](/images/pranayama.jpg)
+![Pranayama](/images/pranayama.jpg)
 
 
 ### <center>SUMÁRIO
 
-**<center>1. [Respiração](#1)**<br>
-**<center>2. [A Boa Respiração deve ser Nasal](#2)**<br>
-**<center>3. [O Diafragma e a Respiração Diafragmática](#3)**<br>
-**<center>4. [Respiração Completa - VÁRIOS EXERCÍCIOS](#4)**
+**1. [Respiração](#1)**<br>
+**2. [A Boa Respiração deve ser Nasal](#2)**<br>
+**3. [O Diafragma e a Respiração Diafragmática](#3)**<br>
+**4. [Respiração Completa - VÁRIOS EXERCÍCIOS](#4)**</center>
 
 <hr>
 <a id="1"></a>
@@ -420,5 +420,3 @@ Não se aventure a fazer os exercícios finais sem que tenha antes atingido o co
 
 #### Este texto foi extraído do capitulo 2
 do livro **"AUTO PERFEIÇÃO COM HATHA YOGA"** Hermógenes da Editora Record.
-
-## Chapter 1 <a id="chapter-1"></a>
