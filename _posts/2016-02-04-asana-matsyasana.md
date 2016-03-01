@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Halasana - Postura do Arado
+title:      Matsyasana - Postura do Peixe
 date:       2016-02-04 13:53:00
 summary:    Instruções para Matsyasana - Postura do Peixe
 categories: asana
